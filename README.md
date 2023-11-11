@@ -7,13 +7,14 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 📊 **this week I spent my time on:**
-<!--START_SECTION:waka-->
 
 <progress value="12.98" max="100">12.98%</progress>
 Progress: 30%
 <div style="width: 100px; background-color: lightgray; border: 1px solid gray; height: 20px; position: relative;">
   <div style="width: 30%; background-color: #4CAF50; height: 100%;"></div>
 </div>
+
+<!--START_SECTION:waka-->
 
 **I'm an Early 🐤** 
 ```txt
