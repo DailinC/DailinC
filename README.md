@@ -9,6 +9,7 @@
 📊 **this week I spent my time on:**
 <!--START_SECTION:waka-->
 
+<progress value="12.98" max="100">12.98%</progress>
 **I'm an Early 🐤** 
 ```txt
 <progress value="12.98" max="100">12.98%</progress>
