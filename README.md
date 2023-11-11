@@ -10,6 +10,9 @@
 <!--START_SECTION:waka-->
 
 <progress value="12.98" max="100">12.98%</progress>
+```markdown
+Progress: 30%
+```
 **I'm an Early 🐤** 
 ```txt
 <progress value="12.98" max="100">12.98%</progress>
