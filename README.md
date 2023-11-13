@@ -1,6 +1,12 @@
 ![](assets/Bottom_up.svg)
 <!--   my-header-img -->
 
+![](./src/header_.png)
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Dailin;+Welcome+to+My+Profile!;Over+12+years+of+ops+experience;Always+learning+new+things+;Cloud+native+learning)](https://git.io/typing-svg)
+
+
 <!-- programming tool icon 编程工具图标 -->
 <img src="https://skillicons.dev/icons?i=ps,ae,pr,git,github,githubactions,gitlab,kubernetes,docker,cloudflare,django,grafana,jenkins,prometheus" /><br>
 
@@ -29,10 +35,6 @@
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 </div>
 
-![](./src/header_.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
-<!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Dailin;+Welcome+to+My+Profile!;Over+12+years+of+ops+experience;Always+learning+new+things+;Cloud+native+learning)](https://git.io/typing-svg)
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
