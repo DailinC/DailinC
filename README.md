@@ -1,17 +1,16 @@
-/*
+<!-- 
   作者: Dailin
   创建日期: 2023-11-13
   最后修改日期: 2023-11-13
   描述: github个人首页展示
-*/
-![](assets/Bottom_up.svg)
+-->
 
+![](assets/Bottom_up.svg)
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Dailin;+Welcome+to+My+Profile!;Over+12+years+of+ops+experience;Always+learning+new+things+;Cloud+native+learning)](https://git.io/typing-svg)
 
 <!-- programming tool icon 编程工具图标 -->
 <img src="https://skillicons.dev/icons?i=ps,ae,pr,git,github,githubactions,gitlab,kubernetes,docker,cloudflare,django,grafana,jenkins,prometheus" /><br>
-
 <!-- svg -->
 <div style="display: flex; align-items: flex-start;">
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
